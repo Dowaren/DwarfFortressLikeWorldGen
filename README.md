@@ -31,4 +31,12 @@
 
 ## Screenshots
 
+**Overworld**
+
 ![enter image description here](https://i.imgur.com/0QMFCCO.png)
+
+
+**Caves/under ground**
+
+![image](https://github.com/Dowaren/DwarfFortressLikeWorldGen/assets/110834832/1e86e232-cc10-43f1-9a7a-d9b9b3e9536f)
+

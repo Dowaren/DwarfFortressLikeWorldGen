@@ -18,6 +18,8 @@
  - A - Right
  - Z - Elevation down
  - X - Elevation Up
+ - E - EXIT
+   
 
 
  **Instalation**

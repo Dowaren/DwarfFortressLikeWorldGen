@@ -1,5 +1,7 @@
 ## Dwarf Fortress like world Generation
 
+
+
 **Key characters**
  - ≃ - Water
  - ⋛ - Sand
@@ -13,7 +15,13 @@
  - S - Down
  - D - Left
  - A - Right
- 
+
+ **Instalation**
+ 1. pip install -r requirements.txt
+ 2. open cmd/windows-terminal/terminal (windows-terminal better)
+ 3. Set width to 120 and height to 30 chars
+ 4. cd path/to/script/directory/
+ 5. python DwarfortressLikeGeneration.py
 
 ## Screenshots
 

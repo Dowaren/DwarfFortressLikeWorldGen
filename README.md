@@ -27,7 +27,7 @@
  2. open cmd/windows-terminal/terminal (windows-terminal better)
  3. Set width to 120 and height to 30 chars
  4. cd path/to/script/directory/
- 5. python DwarfortressLikeGeneration.py
+ 5. python main.py
 
 ## Screenshots
 

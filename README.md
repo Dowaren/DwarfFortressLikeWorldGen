@@ -8,7 +8,7 @@
  - ↥ - Forest
  - ▲ - Mountain
  - ⋒ - Cities
- - # - Cave Walls
+ - \# - Cave Walls
 
 
 **Camera controls**

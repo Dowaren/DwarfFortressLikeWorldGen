@@ -1,3 +1,4 @@
 colorama
 perlin_noise
-opensimplex
+tqdm
+simplexnoise

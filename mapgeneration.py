@@ -19,10 +19,9 @@ def mapgen():
                ascii=False, ncols=75):
         opensimplex.random_seed()
         map.append([])
+                   
         for i in range(heightw):
-
             map[z].append([])
-
             if z == 0:
                 for j in range(width):
                     height = (noise([i / 30, j / 120]) * 20)
@@ -40,7 +39,7 @@ def mapgen():
                         map[z][i].append(Fore.WHITE + '▲')
                     elif round(height) == -10:
                         map[z][i].append(Fore.WHITE + '⋒')
-
+                        
             else:
                 for j in range(width):
                     height = opensimplex.noise2(x=i, y=j) * 20
@@ -48,4 +47,5 @@ def mapgen():
                         map[z][i].append(Fore.WHITE + " ")
                     else:
                         map[z][i].append(Fore.WHITE + "#")
+                        
     return map

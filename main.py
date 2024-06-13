@@ -2,6 +2,7 @@ import eventkeyhandler
 import mapgeneration
 import fragment
 import msvcrt
+
 offsetx = 0
 offsety = 0
 offsetz = 0

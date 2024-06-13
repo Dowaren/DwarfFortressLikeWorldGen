@@ -8,6 +8,7 @@
  - ↥ - Forest
  - ▲ - Mountain
  - ⋒ - Cities
+ - # - Cave Walls
 
 
 **Camera controls**
@@ -15,6 +16,9 @@
  - S - Down
  - D - Left
  - A - Right
+ - Z - Elevation down
+ - X - Elevation Up
+
 
  **Instalation**
  1. pip install -r requirements.txt

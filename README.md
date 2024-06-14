@@ -22,7 +22,7 @@
    
 
 
- **Instalation**
+ **Installation**
  1. pip install -r requirements.txt
  2. open cmd
  3. cd path/to/script/directory/

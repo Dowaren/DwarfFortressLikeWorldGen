@@ -1,6 +1,4 @@
-width = 440
-widthw = 190
-heightw = 250
-depthofworld = 5
-
-
+width = 400
+widthw = 500
+heightw = 400
+depthofworld = 3

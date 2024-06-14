@@ -24,10 +24,9 @@
 
  **Instalation**
  1. pip install -r requirements.txt
- 2. open cmd/windows-terminal/terminal (windows-terminal better)
- 3. Set width to 120 and height to 30 chars
- 4. cd path/to/script/directory/
- 5. python main.py
+ 2. open cmd
+ 3. cd path/to/script/directory/
+ 4. python main.py
 
 ## Screenshots
 

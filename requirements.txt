@@ -1,5 +1,4 @@
 pygame
-colorama
 perlin_noise
 tqdm
 simplexnoise

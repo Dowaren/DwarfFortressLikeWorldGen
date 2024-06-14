@@ -4,11 +4,11 @@
 
 **Key characters**
  - ≃ - Water
- - ⋛ - Sand
- - ↥ - Forest
+ - Ξ - Sand
+ - ↑ - Forest
  - ▲ - Mountain
- - ⋒ - Cities
- - \# - Cave Walls
+ - ⇧ - Cities
+ - Ξ - Cave Walls
 
 
 **Camera controls**
@@ -18,7 +18,7 @@
  - A - Right
  - Z - Elevation down
  - X - Elevation Up
- - E - EXIT
+ 
    
 
 
@@ -33,10 +33,12 @@
 
 **Overworld**
 
-![enter image description here](https://i.imgur.com/0QMFCCO.png)
+![image](https://github.com/Dowaren/DwarfFortressLikeWorldGen/assets/110834832/db816ff0-f977-4708-b418-ec36806c1dd4)
+
 
 
 **Caves/under ground**
 
-![image](https://github.com/Dowaren/DwarfFortressLikeWorldGen/assets/110834832/1e86e232-cc10-43f1-9a7a-d9b9b3e9536f)
+![image](https://github.com/Dowaren/DwarfFortressLikeWorldGen/assets/110834832/a76e5396-19ba-4297-8ae3-38346491e624)
+
 

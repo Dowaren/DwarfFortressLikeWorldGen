@@ -22,7 +22,7 @@
    
 
 
- **Instalation**
+ **Installation**
  1. pip install -r requirements.txt
  2. open cmd/windows-terminal/terminal (windows-terminal better)
  3. Set width to 120 and height to 30 chars

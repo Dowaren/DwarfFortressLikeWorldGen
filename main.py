@@ -20,6 +20,9 @@ mountain = pygame.image.load('assets/mountain.png').convert_alpha()
 sand = pygame.image.load('assets/sand.png')
 cavewall = pygame.image.load('assets/sand.png')
 
+pygame.display.set_caption('Dwarf Fortress like generation')
+pygame.display.set_icon(image)
+
 offsetx = 0
 offsety = 0
 offsetz = 0

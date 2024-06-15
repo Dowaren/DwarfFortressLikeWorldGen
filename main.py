@@ -18,7 +18,7 @@ forest = pygame.image.load('assets/forest.png').convert_alpha()
 house = pygame.image.load('assets/house.png').convert_alpha()
 mountain = pygame.image.load('assets/mountain.png').convert_alpha()
 sand = pygame.image.load('assets/sand.png')
-cavewall = pygame.image.load('assets/sand.png')
+cavewall = pygame.image.load('assets/cave_wall.png')
 
 pygame.display.set_caption('Dwarf Fortress like generation')
 pygame.display.set_icon(image)
